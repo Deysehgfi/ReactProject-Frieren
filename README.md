@@ -8,4 +8,5 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 <hr>
-![Uploading image.png…]()
+![image](https://github.com/Deysehgfi/ReactProject-Frieren/assets/138785041/826d4c7d-bce8-410e-afa3-bf9e987988ce)
+
