@@ -15,7 +15,7 @@ body{
   z-index: 0;
  
   background-color: #60534E;
-  cursor: help;
+  cursor: url(./image/curso.gif);
 }
 
 @media screen and(max-width:650px) {
@@ -29,8 +29,9 @@ body{
   font-weight: 300;
   transition: 0.2s;
 }
+
 .linksNav:hover{
 
-  color:wheat;
-  color: #faf3d781;
+  color:rgba(245, 222, 179, 0.687);
+  /* color: #faf3d793; */
 }

@@ -34,6 +34,7 @@ display: flex;
 align-items: center;
 justify-content: center;
 padding: 140px;
+
 `
 export const Info = styled.div`
 backdrop-filter:blur(2px);
@@ -61,7 +62,7 @@ color:${Cores.MarronEscuro}
 ` 
 export const Button = styled.a`
 border: solid 2px ${Cores.Marron};
-border-radius:50px;
+border-radius:15px;
 width: 150px;
 padding: 15px;
 background-color: transparent;
@@ -72,6 +73,7 @@ color: ${Cores.MarronEscuro};
 &:hover{
     background-color: ${Cores.Marron};
     color:${Cores.Branco};
+    border-radius: 90px;
 }
 
 `
@@ -80,7 +82,7 @@ color: ${Cores.MarronEscuro};
 export const InfoPerson = styled.div`
 backdrop-filter:blur(2px);
 background-color: ${Cores.BrancoMeio} ;
-height: 550px;
+height: 600px;
 width: 100%;
 border: solid 1px ${Cores.Marron};
 border-radius: 0px 20px 0px 20px ;
@@ -104,7 +106,7 @@ border-radius: 100%;
 padding: 3px;
 transition: 0.3s;
 &:hover{
-    background-color: ${Cores.BrancoMeio}
+    transform: scale(1.1);
 }
 `
 

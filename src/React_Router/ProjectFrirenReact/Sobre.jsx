@@ -11,7 +11,7 @@ const Sobre = () => {
             <Info>
                 
                 <Titulo>Sobre</Titulo>
-                <Descricao>O rei demônio foi derrotado e o grupo de heróis vitoriosos volta para casa antes de se separar. Os quatro - a maga Frieren , o herói Himmel , o sacerdote Heiter e o guerreiro Eisen - relembram sua jornada de uma década quando chega o momento de se despedirem. Mas a passagem do tempo é diferente para os elfo.</Descricao>
+                <Descricao>O rei demônio foi derrotado e o grupo de heróis vitoriosos voltam para casa antes de se separar. Os quatro - a maga Frieren, o herói Himmel , o sacerdote Heiter e o guerreiro Eisen - relembram sua jornada de uma década quando chega o momento de se despedirem. Mas a passagem do tempo é diferente para os elfos.</Descricao>
                 <Button href="https://frieren.fandom.com/wiki/Frieren_Wiki">Saiba mais</Button>
                 <img src={decor} alt="" />
             </Info>
